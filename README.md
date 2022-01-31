@@ -3,7 +3,7 @@
 <h4>Carteira Binance(aceita BNB/BUSD/LUS): 0x8d31e8F501574Bcc1ab74EbeB9cD663751517512</h4>
 <br>
 <h1 align="center">⚠ AVISOS ⚠</h1>
-<li>Esse projeto foi inspirado em um projeto semelhante, porém para bombcrypto: <a>https://github.com/mpcabete/bombcrypto-bot</a></li>
+<li>Esse projeto foi inspirado em um projeto semelhante, porém para bombcrypto: <a href="https://github.com/mpcabete/bombcrypto-bot">https://github.com/mpcabete/bombcrypto-bot</a></li>
 <li>Não me responsabilizo por eventuais penalidades ou banimentos, use por sua conta e risco</li>
 <li>Caso o bote não estiver funcionando tente substituir as fotos da pasta alvos por prints da sua própria tela das mesmas partes, pois isso pode variar dependendo do monitor</li>
 <li>O bot ainda está em fase de desenvolvimento e portanto existem algumas limitações tais como só funcionar com um time e não vai além da primeira fase ainda</li>
