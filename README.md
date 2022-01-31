@@ -1,6 +1,6 @@
 <h1 align="center">Luna Rush Bot</h1>
 <h3>Se este projeto lhe ajudou de alguma forma, por favor considere contribuir:</h3>
-<h4>Carteira Binance(aceita BNB/BNBUSD/LUS): 0x8d31e8F501574Bcc1ab74EbeB9cD663751517512</h4>
+<h4>Carteira Binance(aceita BNB/BUSD/LUS): 0x8d31e8F501574Bcc1ab74EbeB9cD663751517512</h4>
 <br>
 <h1 align="center">⚠ AVISOS ⚠</h1>
 <li>Esse projeto foi inspirado em um projeto semelhante, porém para bombcrypto: <a>https://github.com/mpcabete/bombcrypto-bot</a></li>
